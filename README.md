@@ -22,10 +22,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
-</div>
 
 ---------------------------------------------------------------------------------------------------------------------------------------------
 
-<div align="center">
-  [![GitHub Streak](https://streak-stats.demolab.com?user=DenisDoc&theme=dark&border_radius=1.5&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat&card_width=500)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=DenisDoc&theme=dark&border_radius=1.5&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat&card_width=500)](https://git.io/streak-stats)
 </div>
