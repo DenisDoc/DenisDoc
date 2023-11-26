@@ -27,5 +27,5 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------
 
 <div align="center">
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DenisDoc&theme=dark&background=000000)](https://git.io/streak-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com?user=DenisDoc&theme=dark&border_radius=1.5&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat&card_width=500)](https://git.io/streak-stats)
 </div>
